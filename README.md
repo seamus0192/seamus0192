@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @seamus0192
 - 👀 I’m interested in computer science and gaining relevant experience for the industry.
-- 🌱 I’m currently learning system programming (C), data science, and discrete structures.
+- 🌱 I’m currently learning system programming (C), data science (NumPy, Pandas, Machine Learning), and discrete structures.
 - 📫 How to reach me: seamus0192@gmail.com
